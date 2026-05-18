@@ -133,7 +133,7 @@ The model captures the dominant cavity vortex and produces physically consistent
 The horizontal velocity profile at the cavity centerline (`x = 0.5`) is compared against the benchmark solution from Ghia et al. (1982).
 
 <p align="center">
-  <img src="./media/pin Centerline validation(1).png" width="70%">
+  <img src="./media/pin Centerline validation.png" width="70%">
 </p>
 
 ### Validation Summary
