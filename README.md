@@ -30,18 +30,17 @@ by minimizing the residuals of the Navier–Stokes equations together with bound
 
 ## Continuity Equation
 
-[
+```math
 \frac{\partial u}{\partial x} + \frac{\partial v}{\partial y} = 0
-]
+```
 
 ## Momentum Equations
 
-[
+```math
 u\frac{\partial u}{\partial x}
 +
 v\frac{\partial u}{\partial y}
-==============================
-
+=
 -\frac{\partial p}{\partial x}
 +
 \frac{1}{Re}
@@ -50,14 +49,13 @@ v\frac{\partial u}{\partial y}
 +
 \frac{\partial^2 u}{\partial y^2}
 \right)
-]
+```
 
-[
+```math
 u\frac{\partial v}{\partial x}
 +
 v\frac{\partial v}{\partial y}
-==============================
-
+=
 -\frac{\partial p}{\partial y}
 +
 \frac{1}{Re}
@@ -66,7 +64,7 @@ v\frac{\partial v}{\partial y}
 +
 \frac{\partial^2 v}{\partial y^2}
 \right)
-]
+```
 
 ---
 
